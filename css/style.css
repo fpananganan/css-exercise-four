@@ -24,19 +24,19 @@ div {
 }
 
 .baku {
-  background: url(/images/baku.jpg);
+  background: url(../images/baku.jpg);
 }
 
 .london {
-  background: url(/images/london.png);
+  background: url(../images/london.png);
 }
 
 .madrid {
-  background: url(/images/madrid.jpg);
+  background: url(../images/madrid.jpg);
 }
 
 .rome {
-  background: url(/images/rome.jpg);
+  background: url(../images/rome.jpg);
 }
 
 h1 {
@@ -70,6 +70,6 @@ h1 {
 @media screen and (min-width: 1199px) {
   .preview {
     margin: 1%;
-    width: 20%; 
+    width: 20%;
   }
-}
+}; 
